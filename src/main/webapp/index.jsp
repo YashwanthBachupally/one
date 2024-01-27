@@ -30,7 +30,7 @@
   text-decoration: none; /* Remove underline from link */
   color: black; /* Text color */
   font-weight: bold; /* Optional bold text */
-font-size: 30px;
+font-size: 80px;
 }
 </style>
 	
