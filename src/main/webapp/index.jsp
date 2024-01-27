@@ -24,6 +24,7 @@
 
 .google-div:hover {
   background-color: green; /* Background color on hover */
+font-size: 80px
 }
 
 .google-div a {
