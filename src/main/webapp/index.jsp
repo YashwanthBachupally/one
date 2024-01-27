@@ -23,7 +23,7 @@
 }
 
 .google-div:hover {
-  background-color: #f0f0f0; /* Background color on hover */
+  background-color: green; /* Background color on hover */
 }
 
 .google-div a {
